@@ -1,0 +1,110 @@
+---
+object: card
+id: 94c40a45-6439-4405-8562-11a9000a1061
+oracle_id: c58dfcbf-49e6-4ef0-bd31-ebd81b0cfa41
+multiverse_ids:
+- 1169
+tcgplayer_id: 1506
+cardmarket_id: 5555
+name: Nettling Imp
+lang: en
+released_at: '1994-04-01'
+uri: https://api.scryfall.com/cards/94c40a45-6439-4405-8562-11a9000a1061
+scryfall_uri: https://scryfall.com/card/3ed/119/nettling-imp?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/4/94c40a45-6439-4405-8562-11a9000a1061.jpg?1559596622
+  normal: https://cards.scryfall.io/normal/front/9/4/94c40a45-6439-4405-8562-11a9000a1061.jpg?1559596622
+  large: https://cards.scryfall.io/large/front/9/4/94c40a45-6439-4405-8562-11a9000a1061.jpg?1559596622
+  png: https://cards.scryfall.io/png/front/9/4/94c40a45-6439-4405-8562-11a9000a1061.png?1559596622
+  art_crop: https://cards.scryfall.io/art_crop/front/9/4/94c40a45-6439-4405-8562-11a9000a1061.jpg?1559596622
+  border_crop: https://cards.scryfall.io/border_crop/front/9/4/94c40a45-6439-4405-8562-11a9000a1061.jpg?1559596622
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Creature — Imp
+oracle_text: "{T}: Choose target non-Wall creature the active player has controlled
+  continuously since the beginning of the turn. That creature attacks this turn if
+  able. Destroy it at the beginning of the next end step if it didn't attack this
+  turn. Activate only during an opponent's turn, before attackers are declared."
+power: '1'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 45a69797-8adf-468e-a4e1-ba81fd9d66ac
+set: 3ed
+set_name: Revised Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/45a69797-8adf-468e-a4e1-ba81fd9d66ac
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A3ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/3ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/94c40a45-6439-4405-8562-11a9000a1061/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac58dfcbf-49e6-4ef0-bd31-ebd81b0cfa41&unique=prints
+collector_number: '119'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Quinton Hoover
+artist_ids:
+- 1a2db619-92a5-431a-822b-101cdcc5bd5d
+illustration_id: 7d961530-fe2f-42c4-9891-f6a9dfd35d28
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18238
+prices:
+  usd: '0.27'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1169
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nettling+Imp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nettling+Imp&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nettling+Imp
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/1506?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nettling+Imp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nettling+Imp&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

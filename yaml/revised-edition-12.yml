@@ -1,0 +1,106 @@
+---
+object: card
+id: b66cadb3-705d-44d3-9277-5d53cd42dae1
+oracle_id: df2738fe-9cd1-4347-8808-105fcfde1190
+multiverse_ids:
+- 1338
+tcgplayer_id: 1363
+cardmarket_id: 5724
+name: 'Circle of Protection: Red'
+lang: en
+released_at: '1994-04-01'
+uri: https://api.scryfall.com/cards/b66cadb3-705d-44d3-9277-5d53cd42dae1
+scryfall_uri: https://scryfall.com/card/3ed/12/circle-of-protection:-red?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/6/b66cadb3-705d-44d3-9277-5d53cd42dae1.jpg?1559596690
+  normal: https://cards.scryfall.io/normal/front/b/6/b66cadb3-705d-44d3-9277-5d53cd42dae1.jpg?1559596690
+  large: https://cards.scryfall.io/large/front/b/6/b66cadb3-705d-44d3-9277-5d53cd42dae1.jpg?1559596690
+  png: https://cards.scryfall.io/png/front/b/6/b66cadb3-705d-44d3-9277-5d53cd42dae1.png?1559596690
+  art_crop: https://cards.scryfall.io/art_crop/front/b/6/b66cadb3-705d-44d3-9277-5d53cd42dae1.jpg?1559596690
+  border_crop: https://cards.scryfall.io/border_crop/front/b/6/b66cadb3-705d-44d3-9277-5d53cd42dae1.jpg?1559596690
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Enchantment
+oracle_text: "{1}: The next time a red source of your choice would deal damage to
+  you this turn, prevent that damage."
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 45a69797-8adf-468e-a4e1-ba81fd9d66ac
+set: 3ed
+set_name: Revised Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/45a69797-8adf-468e-a4e1-ba81fd9d66ac
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A3ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/3ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b66cadb3-705d-44d3-9277-5d53cd42dae1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adf2738fe-9cd1-4347-8808-105fcfde1190&unique=prints
+collector_number: '12'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: f87b0c24-425a-4a80-80e6-8193f46e4730
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15834
+prices:
+  usd: '0.16'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.20'
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1338
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Circle+of+Protection%3A+Red&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Circle+of+Protection%3A+Red&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Circle+of+Protection%3A+Red
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/1363?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Circle+of+Protection%3A+Red&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Circle+of+Protection%3A+Red&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

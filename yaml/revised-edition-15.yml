@@ -1,0 +1,96 @@
+---
+object: card
+id: 5670c4c0-b8c3-4100-8cd9-c176b29fe01c
+oracle_id: 4692740f-be90-459f-8d90-c4ae71771595
+multiverse_ids:
+- 1341
+name: Crusade
+lang: en
+released_at: '1994-04-01'
+uri: https://api.scryfall.com/cards/5670c4c0-b8c3-4100-8cd9-c176b29fe01c
+scryfall_uri: https://scryfall.com/card/3ed/15/crusade?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/6/5670c4c0-b8c3-4100-8cd9-c176b29fe01c.jpg?1559597165
+  normal: https://cards.scryfall.io/normal/front/5/6/5670c4c0-b8c3-4100-8cd9-c176b29fe01c.jpg?1559597165
+  large: https://cards.scryfall.io/large/front/5/6/5670c4c0-b8c3-4100-8cd9-c176b29fe01c.jpg?1559597165
+  png: https://cards.scryfall.io/png/front/5/6/5670c4c0-b8c3-4100-8cd9-c176b29fe01c.png?1559597165
+  art_crop: https://cards.scryfall.io/art_crop/front/5/6/5670c4c0-b8c3-4100-8cd9-c176b29fe01c.jpg?1559597165
+  border_crop: https://cards.scryfall.io/border_crop/front/5/6/5670c4c0-b8c3-4100-8cd9-c176b29fe01c.jpg?1559597165
+mana_cost: "{W}{W}"
+cmc: 2.0
+type_line: Enchantment
+oracle_text: White creatures get +1/+1.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: banned
+  penny: not_legal
+  commander: banned
+  oathbreaker: banned
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: legal
+  premodern: legal
+  predh: banned
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 45a69797-8adf-468e-a4e1-ba81fd9d66ac
+set: 3ed
+set_name: Revised Edition
+set_type: core
+set_uri: https://api.scryfall.com/sets/45a69797-8adf-468e-a4e1-ba81fd9d66ac
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3A3ed&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/3ed?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5670c4c0-b8c3-4100-8cd9-c176b29fe01c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4692740f-be90-459f-8d90-c4ae71771595&unique=prints
+collector_number: '15'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Poole
+artist_ids:
+- bfdeaf09-f915-4058-8e8b-bcac3bc43c33
+illustration_id: c2406cb0-b3f9-4ba8-88a1-2b5db19b952f
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+content_warning: true
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=1341

@@ -1,0 +1,18 @@
+---
+object: set
+id: 45a69797-8adf-468e-a4e1-ba81fd9d66ac
+code: 3ed
+tcgplayer_id: 97
+name: Revised Edition
+uri: https://api.scryfall.com/sets/45a69797-8adf-468e-a4e1-ba81fd9d66ac
+scryfall_uri: https://scryfall.com/sets/3ed
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3A3ed&unique=prints
+released_at: '1994-04-01'
+set_type: core
+card_count: 306
+digital: false
+nonfoil_only: true
+foil_only: false
+block_code: lea
+block: Core Set
+icon_svg_uri: https://svgs.scryfall.io/sets/3ed.svg?1694404800
